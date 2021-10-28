@@ -3,10 +3,9 @@
 /2020/* https://blog.nets4.com/2020/:splat 301
 /2019/* https://blog.nets4.com/2019/:splat 301
 /p/* https://blog.nets4.com/p/:splat 301
-/search?* https://blog.nets4.com/search?:splat 301
 /search/label/* https://blog.nets4.com/search/label/:splat 301
+/search* https://blog.nets4.com/search/:splat 301
 /feeds/* https://blog.nets4.com/feeds/:splat 301
-/?* https://nets4.com/?:splat 301
 /* https://nets4.com/:splat 301
 / https://nets4.com 301
 
